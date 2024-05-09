@@ -22,7 +22,6 @@ public class MineSweeper {
         initializeBoard();
         placeMines();
         calculateNumbers();
-        printBoard(mineBoard);
     }
 
     // Initializes the game boards to their initial state
